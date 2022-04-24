@@ -26,6 +26,6 @@ int main(){
         cout<<"Danik";
 
 
-} 
+
     return EXIT_SUCCESS;
 }
